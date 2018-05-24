@@ -1,6 +1,6 @@
 # puru.mit.edu
 
-An map of ports to processes running on 5west's server, puru.
+A map of ports to processes running on 5west's server, puru.
 
 ## Getting started
 
