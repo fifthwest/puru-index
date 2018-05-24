@@ -4,7 +4,7 @@ An map of ports to processes running on 5west's server, puru.
 
 ## Getting started
 
-### Reproduction on localhost
+### Installation / deployment for puru.mit.edu
 (This is mostly for 5west reproduction purposes, in case `/srv` and nginx magically disappear from puru.)
 
 1. On Ubuntu:
